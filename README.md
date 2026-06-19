@@ -322,6 +322,7 @@ Only change the timezone string.
 * HTTP header spoofing requires the extension.
 * Worker spoofing requires the Tampermonkey scripts.
 * Incorrect timezone configuration may introduce fingerprint inconsistencies.
+* Needs GeoSpoof for complete Timezone protection
 
 ---
 
