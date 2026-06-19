@@ -328,5 +328,3 @@ Only change the timezone string.
 This project is intended for browser fingerprint research, testing, and privacy experimentation.
 
 No spoofing solution can guarantee 100% anonymity or perfect resistance against advanced fingerprinting systems.
-
-```
