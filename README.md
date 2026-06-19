@@ -18,6 +18,8 @@ A semi-advanced Firefox fingerprint spoofing setup designed to improve consisten
 > [!WARNING]
 > Read the **Timezone Configuration** section before using the timezone script.
 
+> [!WARNING]
+> Use GeoSpoof Add-on to prevent WebTRC Leaks for TimeZone (Will fix it, in future)
 ---
 
 # Why This Exists
