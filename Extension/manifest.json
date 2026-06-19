@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "UA Bridge & Spoof",
+  "version": "2.0",
+  "icons": {
+  "256": "icons/icon-256.png"
+},
+  "description": "Spoofs HTTP Headers and sets cookie for Tampermonkey",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "storage",
+    "cookies",
+    "<all_urls>"
+  ],
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "{a1b2c3d4-e5f6-4a7b-9c10-123456789abc}",
+    "data_collection_permissions": {
+      "required": ["none"]
+    }
+  }
+},
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
