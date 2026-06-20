@@ -16,6 +16,10 @@ A semi-advanced Firefox fingerprint spoofing setup designed to improve consisten
 > Desktop Firefox only.
 
 > [!WARNING]
+> This is Aggressive Anti-Fingerprinting which means some sites might have issues
+> it works on Photopea and Figma and Major Websites like Youtube
+
+> [!CAUTION]
 > Read the **Timezone Configuration** section before using the timezone script.
 
 ---
@@ -320,6 +324,7 @@ Only change the timezone string.
 * HTTP header spoofing requires the extension.
 * Worker spoofing requires the Tampermonkey scripts.
 * Incorrect timezone configuration may introduce fingerprint inconsistencies.
+* Some websites where they rely on workers might not work
 ---
 
 # Disclaimer
