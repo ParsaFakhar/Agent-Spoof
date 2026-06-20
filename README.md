@@ -17,8 +17,8 @@ A semi-advanced Firefox fingerprint spoofing setup designed to improve consisten
 > 2) The Focus is less on Consistancy but on Preventing Leaks
 
 > [!WARNING]
-> This is Aggressive Anti-Fingerprinting which means some sites might have issues
-> it works on Photopea and Figma and Major Websites like Youtube
+> 1) This is Aggressive Anti-Fingerprinting which means some sites might have issues
+> 2) it works on Photopea and Figma and Major Websites like Youtube
 
 > [!CAUTION]
 > Read the **Timezone Configuration** section before using the timezone script.
