@@ -13,8 +13,8 @@ A semi-advanced Firefox fingerprint spoofing setup designed to improve consisten
 - 🖥️ Desktop Firefox support
 
 > [!NOTE]
-> Desktop Firefox only.
-> The Focus is less on Consistancy but on Preventing Leaks
+> 1) Desktop Firefox only.
+> 2) The Focus is less on Consistancy but on Preventing Leaks
 
 > [!WARNING]
 > This is Aggressive Anti-Fingerprinting which means some sites might have issues
