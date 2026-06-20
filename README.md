@@ -1,6 +1,6 @@
 # 🕵️ Agent-Spoof
 
-A semi-advanced Firefox fingerprint spoofing setup designed to improve consistency between browser-level and JavaScript-level fingerprint surfaces.
+A Firefox fingerprint spoofing setup
 
 ## Features
 
